@@ -34,9 +34,10 @@ Program to print the text “Hello World”.
 Developed by: SHREYESHKAR SEKAR
 Registeration Number : 212224220099
 */
+```
 
 MainActivity.java :
-
+```
 package com.example.lifecycleactivity;
 
 import android.os.Bundle;
@@ -133,9 +134,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-
+```
 Activity_main.xml : 
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
